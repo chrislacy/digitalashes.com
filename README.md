@@ -50,6 +50,9 @@ License
 
 
 
+All product names, icons, logos and similar including but not limited to Digital Ashes, Action Launcher, Link Bubble and Tweet Lanes are copyright Digital Ashes PTY. LTD. Usage is prohibited without express written permission of Digital Ashes PTY. LTD.
+
+
  [1]: http://www.digitalashes.com
  [2]: https://developers.google.com/appengine/
  [3]: https://developers.google.com/appengine/downloads
