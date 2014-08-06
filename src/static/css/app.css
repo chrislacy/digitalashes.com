@@ -1,4 +1,4 @@
-/* http://www.colorhexa.com/b98148 */
+/* http://www.colorhexa.com/3f51b5 */
 
 /*** Primary ***/
 
@@ -29,7 +29,10 @@ a:hover {
   color: #2b387c;
 }
 
-
+.row {
+    margin-right:0px;
+    margin-left:0px;
+}
 
 html, body {
   font-family: 'Roboto', sans-serif;
@@ -37,12 +40,12 @@ html, body {
 }
 body {
   background-color: #fff;
-  padding-bottom: 50px;
-  padding-top: 200px;
+  padding-bottom: 20px;
+  padding-top: 120px;
 }
 
 header {
-  min-height: 80px;
+  min-height: 48px;
   color: #f6f6f6;
   position: fixed;
   top: 0;
@@ -52,9 +55,7 @@ header {
 }
 header h1 {
   margin: 10px 0;
-  font-size: 50px;
-  line-height: 60px;
-  font-weight: 100;
+  font-size: 40px;
   text-rendering: auto;
 }
 header menu {
@@ -95,13 +96,13 @@ header menu li a img {
 
 #subtitle {
   position: absolute;
-  top: 80px;
+  top: 48px;
   left: 0;
   width: 100%;
 }
 h2 {
   font-weight: 200;
-  font-size: 26px;
+  font-size: 32px;
   line-height: 30px;
   padding: 15px 0;
   margin: 0;
