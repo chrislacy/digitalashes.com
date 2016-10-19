@@ -19,9 +19,14 @@ My Privacy Policy and Terms of Service are included in this release, but I make 
 Usage
 -----
 
-This website is built to run on [Google App Engine] using the Python 2.7 runtime.
+This website is built to run on [Google App Engine][2] using the Python 2.7 runtime.
 
-To deploy this application yourself, create an App Engine project and change the `application` identifier in `app.yaml`, and you're good to go (hint: if you're starting out, use the GoogleAppEngineLauncher app that comes with the [SDK][3] and `Add existing`).
+To deploy this application yourself, point a terminal to the `src` folder and enter the following command:
+`gcloud app deploy --project=digitalashescom`
+
+Note: if forking this, be sure to use your own unique identifier for project above. 
+
+Full instructions for uploading an AppEngine app can be found [here][3].
 
 
 Contributions
@@ -54,5 +59,5 @@ All product names, icons, logos and similar including but not limited to Digital
 
 
  [1]: http://www.digitalashes.com
- [2]: https://developers.google.com/appengine/
- [3]: https://developers.google.com/appengine/downloads
+ [2]: https://cloud.google.com/appengine/docs
+ [3]: https://cloud.google.com/appengine/docs/python/tools/uploadinganapp
